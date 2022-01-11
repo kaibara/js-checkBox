@@ -1,5 +1,5 @@
 # js-checkBox
-親チェックボックスの状態を子に連動させる
+親チェックボックスの状態を子のチェックボックスにも連動させる
 
 ## 公開サイト
 https://kaibara.github.io/js-checkBox/
